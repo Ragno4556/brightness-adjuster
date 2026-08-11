@@ -1,6 +1,6 @@
 # Automatic Brightness Adjuster for Windows
 
-A windows utility that automatically adjusts monitors brightness based on light measured from the webcam.
+A windows utility that automatically adjusts a monitor's brightness based on light measured from the webcam.
 
 ## Installation
 
