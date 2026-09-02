@@ -7,6 +7,8 @@ Brightness Adjuster is a lightweight Windows system-tray utility that adapts eve
 ## Demo
 
 > The display is filmed externally because Windows gamma-ramp changes are applied after the normal screen-capture stage and therefore do not appear in conventional screen recordings.
+>
+> The demo uses intentionally exaggerated configuration settings to make the brightness changes easy to see. The default settings produce smoother, more gradual adjustments.
 
 ![Brightness Adjuster demonstration](docs/brightnessadjuster-demo.gif)
 
